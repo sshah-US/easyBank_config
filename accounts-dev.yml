@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 accounts:
- message: "Account Microservice"
+ message: "Account Microservice by Sapan Shah"
  contactDetails:
   name: "Sham"
   email: "sham@companyname.com"
