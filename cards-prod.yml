@@ -1,9 +1,10 @@
 
 build:
   version: "1.0"
-accounts:
+cards:
  message: "Card Microservice"
  contactDetails:
   name: "Mohan"
   email: "mohan@companyname.com"
+
  env: "prod"
