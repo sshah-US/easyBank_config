@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 accounts:
- message: "Account Microservice using rabbitmq"
+ message: "Account Microservice."
  contactDetails:
   name: "Sham"
   email: "sham@companyname.com"
