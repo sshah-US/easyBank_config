@@ -5,9 +5,10 @@ cards:
  message: "Card Microservice using rabbitmq"
  contactDetails:
   name: "Soha"
-  email: "soha@companyname.com"
+  email: "soha123@companyname.com"
 
  env: "dev"
+
 
 
 
